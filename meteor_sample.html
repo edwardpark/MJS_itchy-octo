@@ -3,9 +3,13 @@
 </head>
 
 <body>
-  <h1>Welcome to Meteor!</h1>
+  <h1>TDM</h1>
   <div class="container">
-    <header> The Fastest Todo List in the West Classroom2 </header>
+    <header> The Todo </header>
+    <form class="new-task">
+        <input type="text" name="text" placeholder="Type to add new tasks" />
+    </form>
+
       <ul>
         {{#each tasks}}
 
@@ -13,8 +17,15 @@
 
         {{/each}}
       </ul>
+    </div>
 </body>
 
 <template name="task">
-  <li>{{text}}</li>
+  <li class="{{#if checked}}checked{{/if}}">
+    <button class="delete">&times;</button>
+
+    <input type="checkbox" checked="{{checked}}" class="toggle-checked" />
+
+    <span class="text">{{text}}</span>
+  </li>
 </template>
