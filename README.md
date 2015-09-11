@@ -4,7 +4,7 @@ To run this Application?
 2. install Meteor by typing in your Command line Interface ```$ curl https://install.meteor.com/ | sh ```</br>
 2. in the command line Interface type  in  ```$ cd meteor_sample``` and then ``` $ meteor ``` and you are all set to go!
 
-
+----------------------------------------------
 
 
 Why did you choose this subject?
