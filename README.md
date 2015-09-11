@@ -12,7 +12,7 @@ Why did you choose this subject?
 * because I always wanted to make the fastest todo list possible, it's my life goal</br>
 
 How were you first made aware of it?
-* when Erik whispered to me through my lucid while sitting in the bathroom stall this morning and it dawned upon that I must know.</br>
+* when Erik whispered to me through my lucid state while sitting in the bathroom stall this morning and it dawned upon that I must know.</br>
 
 What problem does it solve?
 * My increasingly short time span.</br>
